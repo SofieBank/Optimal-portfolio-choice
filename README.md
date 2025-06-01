@@ -1,2 +1,1 @@
-# Optimal-portfolio-choice
-Optimal portfolio choice based on time
+Optimal portfolio choice based on time - varying volatility models
